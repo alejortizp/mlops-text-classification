@@ -26,3 +26,5 @@ mlruns/
 *.onnxruntime
 *.onnxruntime_model
 *.onnxruntime_model_*
+
+*:Zone.Identifier

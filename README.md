@@ -1,6 +1,3 @@
-# mlops-text-classification
-
-
 # Sistema MLOps para Clasificación de Texto
 
 ## Descripción
